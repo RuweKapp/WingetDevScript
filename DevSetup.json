@@ -13,6 +13,9 @@
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
+					"PackageIdentifier" : "JetBrains.Toolbox"
+				},
+				{
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
